@@ -65,7 +65,6 @@ By following these steps, you should be able to create and customize a book cove
 
 ### Step 6:
 End program.
-## Code:
 
 ## Code:
 ```

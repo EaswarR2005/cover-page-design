@@ -169,16 +169,16 @@ End program.
                 C language, C++, Python, Ms-office and HTML and CSS combined in HDCA
             </div>
             <div class="mypic">
-                <img src="ganesh.img.jpg" width="130" height="145" alt="">
+                <img src="easwar.img.jpg" width="130" height="145" alt="">
             </div>
             <div class="id">
                 <hr style="color: hotpink;">
             </div>
             <div class="author">
-               <p><b>Ganesh.D</b></p>
+               <p><b>EASWAR R</b></p>
             </div>
             <div class="pub">
-                AIML
+                AIDS
             </div>
             <div class="ed">
                 <b>Seventh Edition</b>
